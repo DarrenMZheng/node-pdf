@@ -1,0 +1,10 @@
+{
+  "name": "amCharts 4",
+  "description": "Automate chart export",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
